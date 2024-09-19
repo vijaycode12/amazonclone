@@ -1,0 +1,206 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: arial;
+    box-sizing: border-box;
+}
+.createpage{
+    display: flex;
+    align-items: center;
+
+    flex-direction: column;
+}
+.createlogo{
+    margin-top: -40px;
+    margin-left: -45px;
+}
+.logo{
+    background: url("../images/amazon.logo.jpeg");
+    background-size: cover;
+    height: 140px;
+    width:160px;
+}
+.border{
+    border:1.5px solid  #cfc9c9;
+    width:350px;
+    height:600px;
+    border-radius: 8px;
+    margin-top: -35px;
+}
+.createaccount h1{
+    font-size: 28px;
+    color: #111111;
+    margin: 15px;
+    font-weight: 500;  
+}
+.name{
+    margin: 20px;
+    margin-top: 10px;
+}
+.name p{
+    font-size: 13px;
+    color: #111111;
+    font-weight:550;
+}
+.name input{
+    width:312px;
+    height:31px;
+    margin-top: 5px;
+    border-radius:5px;
+    border-style:solid;
+}
+.bar{
+    padding-left:10px;
+}
+.name input:hover{
+    box-shadow: 0px 0px 5px rgb(38, 242, 252);
+    background-color: rgb(246, 254, 255);
+}
+
+.mobile{
+    margin: 20px;
+    margin-top: 10px;
+}
+.mobile p{
+    font-size: 13px;
+    color: #111111;
+    font-weight:550;
+}
+.mobile input{
+    width:312px;
+    height:31px;
+    margin-top: 5px;
+    border-radius:5px;
+    border-style:solid;
+}
+.mobile input:hover{
+    box-shadow: 0px 0px 5px rgb(38, 242, 252);
+    background-color: rgb(246, 254, 255);
+}
+.password{
+    margin: 20px;
+    margin-top: 10px;
+}
+.password p{
+    font-size: 13px;
+    color: #111111;
+    font-weight:550;
+}
+.password input{
+    width:312px;
+    height:31px;
+    margin-top: 5px;
+    border-radius:5px;
+    border-style:solid;
+}
+.bar{
+    padding-left:10px;
+}
+.password input:hover{
+    box-shadow: 0px 0px 5px rgb(38, 242, 252);
+    background-color: rgb(246, 254, 255);
+}
+.password h6{
+    font-size: 12px;
+    color: #2b2b2b;
+    font-weight: 500;
+    margin-left: 5px;
+    margin-top: 4px;
+}
+.password i{
+    margin-right: 3px;
+}
+.repass{
+    margin: 20px;
+    margin-top: 10px;
+}
+.repass p{
+    font-size: 13px;
+    color: #111111;
+    font-weight:550;
+}
+.repass input{
+    width:312px;
+    height:31px;
+    margin-top: 5px;
+    border-radius:5px;
+    border-style:solid;
+}
+.repass input:hover{
+    box-shadow: 0px 0px 5px rgb(38, 242, 252);
+    background-color: rgb(246, 254, 255);
+}
+.continue button{
+    height:31px;
+    width:312px;
+    background-color: #ffd814;
+    border: none;
+    margin-left:19px;
+    border-radius: 8px;
+    text-align: center;
+    cursor: pointer;
+}
+.header4 p{
+    margin: 20px;
+    font-size: 12px;
+    color: #111111;
+}
+.header4 a{
+    color: rgb(1, 183, 255);
+}
+.bod{
+    width:310px;
+    border-bottom: 1px solid  #cfc9c9 ;
+    margin: 20px;
+    margin-top: 20px;
+}
+.buying{
+    margin: 20px;
+    font-size: 13px;
+}
+.buying p{
+    color: #111111;
+}
+.buying a{
+    color: #0066c0;
+    text-decoration: none;
+}
+.buying a:hover{
+    color: rgb(193, 129, 9);
+    text-decoration: underline;
+}
+.boder{
+ width:310px;
+ border-bottom: 1px solid  #cfc9c9 ;
+ margin-top:20px;
+}
+.already p{
+    color: #111111;
+    margin-top: 40px;
+}
+.already a{
+    color: #0066c0;
+    text-decoration: none;
+}
+.already a:hover{
+    color: rgb(193, 129, 9);
+    text-decoration: underline;
+}
+.bigborder{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-top: 60px;
+    font-size: 11px;
+}
+.class {
+   color: #0066c0;
+}
+.class a:hover{
+    color: rgb(193, 129, 9);
+    text-decoration: underline;
+}
+.footer1{
+    padding-top: 30px;
+}
