@@ -1,3 +1,3 @@
 function create(){
-    window.open("create.html")
+    window.open("../html/create.html")
 }
